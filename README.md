@@ -1,7 +1,7 @@
  Hi 👋
  My name is Murad. I'm from Azerbaijan. I was born in 2004.
  I am currently studying "Management Information Systems" at Izmir/Dokuz Eylul University.
- 
+ 						
  My industry knowledge:
  *Cybersecurity(Diploma:Ministry of Communications and High Technologies of Azerbaijan, Certificate:BerqNet, Linkedin skill assessment)
  *Algorithms(Certificate:Istanbul Business Institute)
@@ -20,4 +20,4 @@
  *English(B2)
  *Russian(A2)
 
-Linkedin:www.linkedin.com/in/themurad/
+Linkedin: www.linkedin.com/in/themurad/
