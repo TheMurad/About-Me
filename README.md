@@ -4,7 +4,7 @@
  
  My industry knowledge:
  *Cybersecurity(Diploma:Ministry of Communications and High Technologies of Azerbaijan, Certificate:BerqNet, Linkedin skill assessment)
- *Algorithms
+ *Algorithms(Certificate:Istanbul Business Institute)
  *Innovation(Certificate:Middle East Technical University Course)
  
  Tools & Technologies:
@@ -19,3 +19,5 @@
  *Turkish(C1)
  *English(B2)
  *Russian(A2)
+
+Linkedin:www.linkedin.com/in/themurad/
