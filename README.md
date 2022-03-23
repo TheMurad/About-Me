@@ -12,7 +12,7 @@
  *Wordpress(Linkedin skill assesment)
  *Python(some simple projects, Linkedin skill assessment)
  *MIS(I'm still studying at university)
- *HTML5
+ *HTML5(Linkedin skill assessment)
  
  Languages:
  *Azerbaijani(C2)
