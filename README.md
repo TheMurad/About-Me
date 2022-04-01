@@ -13,7 +13,7 @@
  *Wordpress(Linkedin skill assesment)
  *Python(some simple projects, Linkedin skill assessment)
  *MIS(I'm still studying at university)
- *HTML5(Linkedin skill assessment)
+ *HTML5(Linkedin skill assessment, Turkcell Certificate)
  *Microsoft Word(Linkedin skill assessment)
  
  
