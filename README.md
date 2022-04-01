@@ -6,6 +6,7 @@
  *Cybersecurity(Diploma:Ministry of Communications and High Technologies of Azerbaijan, Certificate:BerqNet, Linkedin skill assessment)
  *Algorithms(Certificate:Istanbul Business Institute)
  *Innovation(Certificate:Middle East Technical University Course)
+ *Digital Marketing(Google Digital Garage Certificate)
  
  Tools & Technologies:
  *Linux(Linkedin skill assessment)
@@ -13,6 +14,8 @@
  *Python(some simple projects, Linkedin skill assessment)
  *MIS(I'm still studying at university)
  *HTML5(Linkedin skill assessment)
+ *Microsoft Word(Linkedin skill assessment)
+ 
  
  Languages:
  *Azerbaijani(C2)
